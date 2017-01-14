@@ -2,6 +2,9 @@
 
 Jogo do Stop com Arduino
 
+[![Jogo do Stop com Arduino](http://img.youtube.com/vi/qSSaKfrhp48/0.jpg)](https://www.youtube.com/watch?v=qSSaKfrhp48 "Jogo do Stop com Arduino")
+
+
 ### Componentes
 
 - Arduino UNO
